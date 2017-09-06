@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+.App {
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.title{
+  text-align: left;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 32pt;
+  margin-left: 5px;
+}
+
+.stuff{
+  margin-top: 20px;
+}
+
+#reset-btn{
+  background: blue;
+  border-radius: 10px;
+  color: white;
+  margin-top: 10px;
+  width: 100px;
+  height: 40px;
+}

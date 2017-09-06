@@ -1,0 +1,12 @@
+.Square{
+  border: dotted #56ffee;
+  box-sizing: border-box;
+  font-size: 8em;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+.Square:hover{
+  background: #fcff56;
+}
